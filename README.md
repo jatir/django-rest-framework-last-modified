@@ -69,5 +69,5 @@ $ mkdocs build
 
 [build-status-image]: https://secure.travis-ci.org/jatir/django-rest-framework-last-modified.png?branch=master
 [travis]: http://travis-ci.org/jatir/django-rest-framework-last-modified?branch=master
-[pypi-version]: https://pypip.in/version/djangorestframework-last-modified/badge.svg
+[pypi-version]: https://img.shields.io/pypi/v/djangorestframework-last-modified.svg
 [pypi]: https://pypi.python.org/pypi/djangorestframework-last-modified
